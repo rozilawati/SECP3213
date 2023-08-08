@@ -1,7 +1,5 @@
 # SECP3213:Business Intelligence
 
-Course Title: Business Intelligence Fundamentals
-
 Course Description:
 The Business Intelligence Fundamentals course is designed to provide students with a comprehensive introduction to the field of business intelligence (BI). This course covers the fundamental concepts, techniques, and tools used to collect, analyze, and present business data for informed decision-making. Students will gain a solid understanding of how BI can drive organizational success by turning raw data into valuable insights.
 
